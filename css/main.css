@@ -1,7 +1,33 @@
 html {
   box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.125rem;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+header {
+  display: flex;
+}
+
+header h1 {
+
+}
+
+header img {
+
+}
+
+header p {
+
+}
+
+nav ul {
+
+}
+
+nav a {
+
 }
