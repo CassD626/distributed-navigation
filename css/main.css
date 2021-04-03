@@ -32,7 +32,8 @@ header p {
 }
 
 nav ul {
-
+flex-direction: column;
+list-style-type: none;
 }
 
 nav a {
