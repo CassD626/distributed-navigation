@@ -14,7 +14,7 @@ img {
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: flex-start;
   background-color: #e2e2e2;
 }
