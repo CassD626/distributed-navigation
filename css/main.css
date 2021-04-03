@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: sans-serif;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -10,6 +10,8 @@ html {
 
 header {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header h1 {
@@ -33,5 +35,5 @@ nav a {
 }
 
 body {
-
+margin: .5rem;
 }
