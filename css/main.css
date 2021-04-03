@@ -8,10 +8,15 @@ html {
   box-sizing: inherit;
 }
 
+img {
+  width: 2rem;
+}
+
 header {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #e2e2e2;
 }
 
 header h1 {
